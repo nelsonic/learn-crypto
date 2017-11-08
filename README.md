@@ -1,5 +1,7 @@
 # Learn Crypto
 
+# > GOTO: https://github.com/dwyl/learn-cryptography
+
 Cryptography is a fascinating topic worthy of
 *many* fantastic books! see: http://amzn.to/cthr46
 
